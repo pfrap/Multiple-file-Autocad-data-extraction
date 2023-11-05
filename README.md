@@ -1,8 +1,9 @@
 # Multiple file Autocad data extraction 
  Python script for extracting information from Autocad block attributes in multiple documents.
 
-* Uses package EZDXF
+!["Python ETL"](Python_cad_etl.drawio.png)
 
+* Uses package EZDXF
 Sequence of operations
 1) FOR loop for checking unreadable files.
 2) Define the function for extracting information from cad files.  
